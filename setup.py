@@ -7,7 +7,7 @@ setup(
     version = '0.11.1',
     description = 'A library to communicate with the Xiaomi Gateway',
     author='Daniel Hoyer Iversen',
-    url='https://github.com/mingmonth/PyXiaomiGateway/',
+    url='https://github.com/Danielhiversen/PyXiaomiGateway/',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Other Environment',
